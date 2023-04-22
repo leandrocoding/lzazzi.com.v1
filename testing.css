@@ -35,7 +35,7 @@ body {
 } */
 
 .container {
-    background-color: rgba(0, 0, 0, 0.8); /* Change the background color to dark with transparency */
+    background-color: rgba(0, 0, 0, 0.6); /* Change the background color to dark with transparency */
     color: #fff; /* Change the text color to white */
     padding: 40px 60px;
     border-radius: 10px;
